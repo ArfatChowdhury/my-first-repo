@@ -1,0 +1,24 @@
+div{
+    background-color: gold;
+    box-shadow: 10px 10px 10px gold;
+    text-decoration: none;
+    padding-left: 200px;
+
+  }
+h3{
+    font-weight: bolder;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+ul{
+    font-weight: lighter;
+    font-size: medium;
+    text-align: start;
+    margin: 10px;
+    padding: 10px;
+}
+body{
+    margin: 10px;
+    padding: 10px;
+}
